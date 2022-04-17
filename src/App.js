@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import About from "./components/About";
-import Navegation from "./components/Navegation";
+import Navigation from "./components/Navigation";
 import Footer from "./components/Footer";
 import AppsList from "./components/AppsList";
 import Resume from "./components/Resume";
@@ -23,7 +23,7 @@ function App() {
 
   return (
     <div className="General">
-      <Navegation currentPage={currentPage} setCurrentPage={setCurrentPage} />
+      <Navigation currentPage={currentPage} setCurrentPage={setCurrentPage} />
       {renderPage()}
       <Footer></Footer>
     </div>
