@@ -1,15 +1,15 @@
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faCode } from "@fortawesome/free-solid-svg-icons";
+import { faBookOpen } from "@fortawesome/free-solid-svg-icons";
 import Navbar from "react-bootstrap/Navbar";
 
 function Navigation(props) {
   const tabs = ["About", "Portfolio", "Resume", "Contact"];
 
   return (
-    <header className="navegation">
+    <header className="navigation">
       <h2>
-        <FontAwesomeIcon icon={faCode} style={{ fontSize: "20px" }} />
+        <FontAwesomeIcon icon={faBookOpen} style={{ fontSize: "20px" }} />
         Daniel Mendez
       </h2>
       <>

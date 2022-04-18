@@ -12,7 +12,7 @@ function About() {
           <Figure>
             <Figure.Image width={250} height={250} src={img} />
             <Figure.Caption>
-              <p ClassName="fontStyle">
+              <p className="fontStyle">
                 Hello, My name is Daniel Mendez. I am a real estate agent in the
                 state of Connecticut and have been for 2 years. As a real estate
                 agent my goal is to find the right house my client is asking for
