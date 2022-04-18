@@ -9,13 +9,13 @@ This **portfolio** has some of the work I have done during the bootcamp and show
 
   Checkout my site! [Portfolio](https://github.com/DanProgramsIt/Daniels-React-Portfolio)
 
- ![About]()
+ ![About](/src/assets/images/About-Page.jpg)
  
- ![Portfolio]()
+ ![Portfolio](/src/assets/images/Portfolio-Page.jpg)
 
- ![Resume]()
+ ![Resume](/src/assets/images/Resume-Page.jpg)
 
- ![Contact]()
+ ![Contact](/src/assets/images/Contact-Page.jpg)
  
 
  
