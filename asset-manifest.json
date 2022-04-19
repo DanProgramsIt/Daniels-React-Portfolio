@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.4b49987a.css",
-    "main.js": "/static/js/main.caf1d851.js",
-    "static/js/787.ad29fea8.chunk.js": "/static/js/787.ad29fea8.chunk.js",
-    "static/media/Mountain-Lake-Bed-and-Breakfast.png": "/static/media/Mountain-Lake-Bed-and-Breakfast.075a3658a0ce0f0cfceb.png",
-    "static/media/About-Page.jpg": "/static/media/About-Page.b864d1e2c2743dbd88a3.jpg",
-    "static/media/Budget-Track.jpg": "/static/media/Budget-Track.b95650bfb535f538dd2c.jpg",
-    "static/media/Portfolio-Page.jpg": "/static/media/Portfolio-Page.9bbdca088375e8c20ec2.jpg",
-    "static/media/Resume-Page.jpg": "/static/media/Resume-Page.cd1f9aa6cd05f83fadd9.jpg",
-    "static/media/Populate-Music.jpg": "/static/media/Populate-Music.80d0299ed48ee83dc4da.jpg",
-    "static/media/Contact-Page.jpg": "/static/media/Contact-Page.43eee73f6558d9fafe34.jpg",
-    "static/media/Notes-to-remember.jpg": "/static/media/Notes-to-remember.e1233a7d2aa477f65be5.jpg",
-    "static/media/Dan-smile.jpg": "/static/media/Dan-smile.513c2f3857ad5942a89a.jpg",
-    "index.html": "/index.html",
-    "main.4b49987a.css.map": "/static/css/main.4b49987a.css.map",
-    "main.caf1d851.js.map": "/static/js/main.caf1d851.js.map",
-    "787.ad29fea8.chunk.js.map": "/static/js/787.ad29fea8.chunk.js.map"
+    "main.css": "/Daniels-React-Portfolio/static/css/main.4b49987a.css",
+    "main.js": "/Daniels-React-Portfolio/static/js/main.1d3f2f8b.js",
+    "static/js/787.ad29fea8.chunk.js": "/Daniels-React-Portfolio/static/js/787.ad29fea8.chunk.js",
+    "static/media/Mountain-Lake-Bed-and-Breakfast.png": "/Daniels-React-Portfolio/static/media/Mountain-Lake-Bed-and-Breakfast.075a3658a0ce0f0cfceb.png",
+    "static/media/About-Page.jpg": "/Daniels-React-Portfolio/static/media/About-Page.b864d1e2c2743dbd88a3.jpg",
+    "static/media/Budget-Track.jpg": "/Daniels-React-Portfolio/static/media/Budget-Track.b95650bfb535f538dd2c.jpg",
+    "static/media/Portfolio-Page.jpg": "/Daniels-React-Portfolio/static/media/Portfolio-Page.9bbdca088375e8c20ec2.jpg",
+    "static/media/Resume-Page.jpg": "/Daniels-React-Portfolio/static/media/Resume-Page.cd1f9aa6cd05f83fadd9.jpg",
+    "static/media/Populate-Music.jpg": "/Daniels-React-Portfolio/static/media/Populate-Music.80d0299ed48ee83dc4da.jpg",
+    "static/media/Contact-Page.jpg": "/Daniels-React-Portfolio/static/media/Contact-Page.43eee73f6558d9fafe34.jpg",
+    "static/media/Notes-to-remember.jpg": "/Daniels-React-Portfolio/static/media/Notes-to-remember.e1233a7d2aa477f65be5.jpg",
+    "static/media/Dan-smile.jpg": "/Daniels-React-Portfolio/static/media/Dan-smile.513c2f3857ad5942a89a.jpg",
+    "index.html": "/Daniels-React-Portfolio/index.html",
+    "main.4b49987a.css.map": "/Daniels-React-Portfolio/static/css/main.4b49987a.css.map",
+    "main.1d3f2f8b.js.map": "/Daniels-React-Portfolio/static/js/main.1d3f2f8b.js.map",
+    "787.ad29fea8.chunk.js.map": "/Daniels-React-Portfolio/static/js/787.ad29fea8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b49987a.css",
-    "static/js/main.caf1d851.js"
+    "static/js/main.1d3f2f8b.js"
   ]
 }
