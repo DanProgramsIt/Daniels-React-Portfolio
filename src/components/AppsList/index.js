@@ -28,6 +28,12 @@ function AppsList() {
       githubLink: "https://github.com/DanProgramsIt/Budget-Track",
       deploy: "https://budget-tracked.herokuapp.com/",
     },
+    {
+      name: "Coast-2-Coast",
+      image: "Main.jpg",
+      githubLink: "https://github.com/reggietenk/Coast-2-Coast-",
+      deploy: "https://coast-2-coast.herokuapp.com/",
+    },
   ]);
 
   return (
