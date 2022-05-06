@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/Daniels-React-Portfolio/static/css/main.4b49987a.css",
-    "main.js": "/Daniels-React-Portfolio/static/js/main.1d3f2f8b.js",
+    "main.js": "/Daniels-React-Portfolio/static/js/main.579e424a.js",
     "static/js/787.ad29fea8.chunk.js": "/Daniels-React-Portfolio/static/js/787.ad29fea8.chunk.js",
     "static/media/Mountain-Lake-Bed-and-Breakfast.png": "/Daniels-React-Portfolio/static/media/Mountain-Lake-Bed-and-Breakfast.075a3658a0ce0f0cfceb.png",
+    "static/media/Main.jpg": "/Daniels-React-Portfolio/static/media/Main.24d23d884d49033cb1c6.jpg",
     "static/media/About-Page.jpg": "/Daniels-React-Portfolio/static/media/About-Page.b864d1e2c2743dbd88a3.jpg",
     "static/media/Budget-Track.jpg": "/Daniels-React-Portfolio/static/media/Budget-Track.b95650bfb535f538dd2c.jpg",
     "static/media/Portfolio-Page.jpg": "/Daniels-React-Portfolio/static/media/Portfolio-Page.9bbdca088375e8c20ec2.jpg",
@@ -14,11 +15,11 @@
     "static/media/Dan-smile.jpg": "/Daniels-React-Portfolio/static/media/Dan-smile.513c2f3857ad5942a89a.jpg",
     "index.html": "/Daniels-React-Portfolio/index.html",
     "main.4b49987a.css.map": "/Daniels-React-Portfolio/static/css/main.4b49987a.css.map",
-    "main.1d3f2f8b.js.map": "/Daniels-React-Portfolio/static/js/main.1d3f2f8b.js.map",
+    "main.579e424a.js.map": "/Daniels-React-Portfolio/static/js/main.579e424a.js.map",
     "787.ad29fea8.chunk.js.map": "/Daniels-React-Portfolio/static/js/787.ad29fea8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b49987a.css",
-    "static/js/main.1d3f2f8b.js"
+    "static/js/main.579e424a.js"
   ]
 }
